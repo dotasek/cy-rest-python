@@ -1,3 +1,9 @@
+---
+
+### This repository is here for legacy information. For more recent info on accessing Cytoscape through Python, please refer to the [py2cytoscape](https://github.com/cytoscape/py2cytoscape) library as well as the [Sample Python Scripts](https://github.com/cytoscape/cytoscape-automation/tree/master/for-scripters/Python) in the Cytoscape Automation repository.
+
+---
+
 # cyREST Examples for Python Users 
 
 ![](http://cl.ly/XohP/logo300.png)
